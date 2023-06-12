@@ -1,5 +1,7 @@
 Homework SkillFactory module D1 (Домашнее задание SkillFactory модуль D1)
+
 ==== ENG =======================================================================
+
 Task:
 
 1} Create a Django project.
@@ -13,6 +15,7 @@ logged-in user).
 7} Static Bootstrap files are loaded via the {%load static%} and {%static%} tags.
 
 ==== RUS ========================================================================
+
 Задание:
 
 1} Создать проект Django.
