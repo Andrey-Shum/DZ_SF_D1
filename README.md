@@ -1,25 +1,5 @@
 Homework SkillFactory module D1 (Домашнее задание SkillFactory модуль D1)
 
-==== ENG =======================================================================
-
-Task:
-
-1} Create a Django project.
-
-2} Add 3 static pages to it.
-
-3} On one of the pages, the content is repeated 2 times without changing the 
-content ({{flatpage.content }} is written twice).
-
-4} One of the pages on the site is accessible only to the admin (only to the 
-logged-in user).
-
-5} Fonts and text sizes have been changed on one of the pages.
-
-6} The site is a decorated Bootstrap template with embedded user data.
-
-7} Static Bootstrap files are loaded via the {%load static%} and {%static%} tags.
-
 ==== RUS ========================================================================
 
 Задание:
@@ -39,3 +19,23 @@ logged-in user).
 пользовательскими данными.
 
 7} Статические файлы Bootstrap загружаются через теги {% load static %} и {% static %}.
+
+==== ENG =======================================================================
+
+Task:
+
+1} Create a Django project.
+
+2} Add 3 static pages to it.
+
+3} On one of the pages, the content is repeated 2 times without changing the 
+content ({{flatpage.content }} is written twice).
+
+4} One of the pages on the site is accessible only to the admin (only to the 
+logged-in user).
+
+5} Fonts and text sizes have been changed on one of the pages.
+
+6} The site is a decorated Bootstrap template with embedded user data.
+
+7} Static Bootstrap files are loaded via the {%load static%} and {%static%} tags.
